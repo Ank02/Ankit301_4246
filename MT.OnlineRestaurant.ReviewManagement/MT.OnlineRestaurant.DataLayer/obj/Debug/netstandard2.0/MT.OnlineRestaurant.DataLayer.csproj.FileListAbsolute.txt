@@ -1,0 +1,9 @@
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.ReviewManagement\MT.OnlineRestaurant.DataLayer\bin\Debug\netstandard2.0\MT.OnlineRestaurant.DataLayer.deps.json
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.ReviewManagement\MT.OnlineRestaurant.DataLayer\bin\Debug\netstandard2.0\MT.OnlineRestaurant.DataLayer.dll
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.ReviewManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netstandard2.0\MT.OnlineRestaurant.DataLayer.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.ReviewManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netstandard2.0\MT.OnlineRestaurant.DataLayer.AssemblyInfoInputs.cache
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.ReviewManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netstandard2.0\MT.OnlineRestaurant.DataLayer.AssemblyInfo.cs
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.ReviewManagement\MT.OnlineRestaurant.DataLayer\bin\Debug\netstandard2.0\MT.OnlineRestaurant.DataLayer.pdb
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.ReviewManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netstandard2.0\MT.OnlineRestaurant.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.ReviewManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netstandard2.0\MT.OnlineRestaurant.DataLayer.dll
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.ReviewManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netstandard2.0\MT.OnlineRestaurant.DataLayer.pdb
